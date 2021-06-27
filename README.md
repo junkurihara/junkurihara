@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Jun's GitHub stats including private repos](https://github-readme-stats.vercel.app/api?username=junkurihara&count_private=true&show_icons=true&theme=dracula)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=junkurihara&count_private=true&show_icons=true&theme=tokyonight"/>
 
-![Jun's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=junkurihara&layout=compact&theme=dracula)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkurihara&layout=compact&theme=tokyonight" />
 
 <!--
 **junkurihara/junkurihara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
