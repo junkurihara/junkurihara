@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 <p align="left">
   <a href="https://github.com/junkurihara/junkurihara/">
     <img src="https://komarev.com/ghpvc/?username=junkurihara" alt="junkurihara" />
@@ -15,6 +14,8 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/jqtype/contributions.svg" />
   </a>
 </p>
+
+I am Jun Kurihara, working as a software engineer at a startup company and a researcher/lecturer at a university in Japan. I am really interested in developing novel security and networking products/services written in various languages on various infrastructures. You can reach me via my [LinkedIn](https://www.linkedin.com/in/junkurihara/) or [WebSite](https://junkurihara.githu.io).
 
 <p align="left">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkurihara&theme=tokyonight&layout=compact" />
