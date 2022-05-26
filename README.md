@@ -15,7 +15,7 @@
   </a>
 </p>
 
-I am Jun Kurihara, working as a software engineer and a researcher in Japan, and sometimes in US. I am really interested in developing novel security and networking products/services written in various languages on various infrastructures. You can reach me via my [LinkedIn](https://www.linkedin.com/in/junkurihara/) or [WebSite](https://junkurihara.github.io).
+I am Jun Kurihara, working as a research engineer in the area of distributed systems an networking in Japan and sometimes in US. I am really interested in developing novel software and networking products/services written in various languages on various infrastructures. You can reach me via my [LinkedIn](https://www.linkedin.com/in/junkurihara/) or [WebSite](https://junkurihara.github.io).
 
 ---
 
