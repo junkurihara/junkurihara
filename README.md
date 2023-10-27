@@ -26,7 +26,7 @@ Currently I am really interested in the enhancement of privacy-preserving DNS ar
 #### Concept paper
 > Jun Kurihara and Takeshi Kubo, "Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest," https://arxiv.org/abs/2104.13785v3, Jun. 2021
   
-  (Extended version was submitted to a journal as a full paper.)
+Extended full version was accepted to Computer Networks, Elsevier and is to appear soon.
 
 #### Web page
 > https://junkurihara.github.io/dns/
