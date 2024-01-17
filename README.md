@@ -25,7 +25,7 @@ Currently I am really interested in the enhancement of privacy-preserving DNS ar
 
 #### Concept paper
 > Jun Kurihara and Takeshi Kubo, "Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest," https://arxiv.org/abs/2104.13785v3, Jun. 2021
-  
+
 Extended full version was accepted to Computer Networks, Elsevier and is to appear soon.
 
 #### Web page
@@ -35,7 +35,7 @@ Extended full version was accepted to Computer Networks, Elsevier and is to appe
 ##### Based on Oblivious DNS over HTTPS
 
 - Server/Relay
-  > https://github.com/junkurihara/doh-server
+  > https://github.com/junkurihara/modoh-server
 - Client:
   > https://github.com/junkurihara/doh-auth-proxy
 - (Optional) Authentication server
