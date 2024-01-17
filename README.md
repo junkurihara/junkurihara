@@ -44,7 +44,7 @@ Currently I am really interested in the enhancement of privacy-preserving DNS ar
 - (Optional) Authentication server
   > https://github.com/junkurihara/rust-token-server
 
-##### Based on DNSCrypt:
+##### Based on DNSCrypt
 
 - Server/Relay:
   > https://github.com/junkurihara/encrypted-dns-server-modns
