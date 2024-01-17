@@ -23,10 +23,13 @@ I am Jun Kurihara, a research engineer in the area of distributed systems and ne
 
 Currently I am really interested in the enhancement of privacy-preserving DNS architectures. As one of my research activities, I am actively developing **Mutualized Oblivious DNS** by extending existing sophisticated encrypted and anonymized DNS protocols.
 
-#### Concept paper
-> Jun Kurihara and Takeshi Kubo, "Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest," https://arxiv.org/abs/2104.13785v3, Jun. 2021
+#### Publications
 
-Extended full version was accepted to Computer Networks, Elsevier and is to appear soon.
+- Extended journal paper:
+  > Jun Kurihara, Toshiaki Tanaka, and Takeshi Kubo, "μODNS: A Distributed Approach to DNS Anonymization with Collusion Resistance," *Computer Networks*, Elsevier, vol. 237, p. 110078, Dec. 2023. [Online] Available at [https://doi.org/10.1016/j.comnet.2023.110078](https://doi.org/10.1016/j.comnet.2023.110078).
+
+- Initial concept paper:
+  > Jun Kurihara and Takeshi Kubo, "Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest," [https://arxiv.org/abs/2104.13785v3](https://arxiv.org/abs/2104.13785v3), Jun. 2021
 
 #### Web page
 > https://junkurihara.github.io/dns/
