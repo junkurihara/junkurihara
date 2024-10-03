@@ -19,6 +19,16 @@ I am Jun Kurihara, a research engineer in the area of distributed systems and ne
 
 ---
 
+### rpxy
+
+`rpxy` [ahr-pik-see] is an implementation of simple and lightweight reverse-proxy with some additional features. The project is (always) work-in-progress, but being used in numbers of production environment. `rpxy` can handle the brand-new HTTP/3 connection, and supports ACME with TLS-ALPN-01 out-of-the-box.
+
+- Source: [https://github.com/junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy)
+
+- Website: [https://rpxy.io/](https://rpxy.io)
+
+---
+
 ### Mutualized Oblivious DNS (μODNS)
 
 Currently I am really interested in the enhancement of privacy-preserving DNS architectures. As one of my research activities, I am actively developing **Mutualized Oblivious DNS** by extending existing sophisticated encrypted and anonymized DNS protocols.
