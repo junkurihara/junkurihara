@@ -21,7 +21,7 @@ I am Jun Kurihara, a research engineer in the area of distributed systems and ne
 
 ### rpxy
 
-`rpxy` [ahr-pik-see] is an implementation of simple and lightweight reverse-proxy with some additional features. The project is (always) work-in-progress, but being used in numbers of production environment. `rpxy` can handle the brand-new HTTP/3 connection, and supports ACME with TLS-ALPN-01 out-of-the-box.
+`rpxy` [ahr-pik-see] is an implementation of simple and lightweight reverse-proxy with some additional features. The project is (always and endless) work-in-progress, but being used in numbers of production environment. `rpxy` supports the brand-new HTTP/3 standard,  ACME with TLS-ALPN-01 out-of-the-box, and the TLS post-quantum key exchange by default.
 
 - Source: [https://github.com/junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy)
 
