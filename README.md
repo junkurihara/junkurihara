@@ -19,13 +19,17 @@ I am Jun Kurihara, a research engineer in the area of distributed systems and ne
 
 ---
 
-### rpxy
+### rpxy and rpxy-l4
 
 `rpxy` [ahr-pik-see] is an implementation of simple and lightweight reverse-proxy with some additional features. The project is (always and endless) work-in-progress, but being used in numbers of production environment. `rpxy` supports the brand-new HTTP/3 standard,  ACME with TLS-ALPN-01 out-of-the-box, and the TLS post-quantum key exchange by default.
 
 - Source: [https://github.com/junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy)
 
 - Website: [https://rpxy.io/](https://rpxy.io)
+
+`rpxy` is an HTTP, i.e., layer-7, reverse proxy. On the other hand, `rpxy-l4` is a brand-new layer-4 (TCP/UDP) reverse proxy with protocol multiplexer functions, e.g., IETF-QUIC, TLS, SSH, Wireguard, etc. `rpxy-l4` is also being developed along with `rpxy` and designed from the philosophy of `rpxy`, i.e., simple and lightweight.
+
+- Source: [https://github.com/junkurihara/rust-rpxy-l4](https://github.com/junkurihara/rust-rpxy-l4)
 
 ---
 
