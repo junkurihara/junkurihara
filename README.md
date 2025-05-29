@@ -7,12 +7,6 @@
   <a href="https://github.com/junkurihara">
     <img height="20" src="https://img.shields.io/github/followers/junkurihara?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/jqtype">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/jqtype/posts.svg" />
-  </a>
-  <//qiita.com/jqtype">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/jqtype/contributions.svg" />
-  </a>
 </p>
 
 I am Jun Kurihara, a research engineer in the area of distributed systems and networking in Japan and sometimes in US. I am really interested in developing novel software and networking products/services written in various languages on various infrastructures. You can reach me via my [LinkedIn](https://www.linkedin.com/in/junkurihara/) or [WebSite](https://junkurihara.github.io).
